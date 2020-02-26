@@ -14,4 +14,5 @@ For the playlist go checkout: https://www.youtube.com/watch?v=I752ofYu7ag
 
 Also you can visit his github: https://github.com/bradtraversy
 
+
 Thanks for this great work.
