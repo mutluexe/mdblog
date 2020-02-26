@@ -1,8 +1,8 @@
 ###################
-Simple Blog
+MDBlog
 ###################
 
-Simple Blog is a CodeIgniter project that is prepared for learning purposes. 
+MDBlog is a CodeIgniter Blog application project that is prepared for learning purposes. 
 
 *******************
 Resource
